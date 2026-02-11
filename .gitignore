@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Mac system files
+.DS_Store
+
+# Streamlit cache
+.streamlit/
+
+# Model files (optional – see note below)
+*.pkl
+
+# Logs
+*.log
