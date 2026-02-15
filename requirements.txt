@@ -4,4 +4,3 @@ ipykernel
 scikit-learn
 matplotlib
 streamlit
-sklearn
